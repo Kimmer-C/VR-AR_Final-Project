@@ -1,0 +1,11 @@
+com.DefaultCompany.VRTest.launcher-jetified-unityopus-0 C:\Users\yusun\.gradle\caches\transforms-3\e1546effb86acf6da9f3bc1ebdceefaf\transformed\jetified-unityopus\res
+com.DefaultCompany.VRTest.launcher-pngs-1 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.VRTest.launcher-resValues-2 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.VRTest.launcher-rs-3 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.VRTest.launcher-mergeReleaseResources-4 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.VRTest.launcher-mergeReleaseResources-5 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.VRTest.launcher-merged_res-6 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.VRTest.launcher-main-7 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.DefaultCompany.VRTest.launcher-release-8 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.DefaultCompany.VRTest.launcher-packaged_res-9 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release
+com.DefaultCompany.VRTest.launcher-packaged_res-10 D:\Unity\VRTest\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\release
