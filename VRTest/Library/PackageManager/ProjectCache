@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638678883388495982
-    m_Hash: 4034557558
+      ticks: 638680587053559471
+    m_Hash: 1249837814
   m_LockFileStatus:
     m_FilePath: D:/Git/VR-AR_Final-Project/VRTest/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638678883388555774
-    m_Hash: 3517928858
+      ticks: 638680587053559471
+    m_Hash: 1854474705
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -4419,6 +4419,7 @@ m_ResolvedPackages:
     - 68.0.3
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     compatible:
     - 59.0.0
     - 60.0.0
@@ -4434,6 +4435,7 @@ m_ResolvedPackages:
     - 68.0.3
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies: []
@@ -4505,6 +4507,7 @@ m_ResolvedPackages:
     - 67.0.0
     - 68.0.0
     - 69.0.0
+    - 71.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
@@ -4517,6 +4520,7 @@ m_ResolvedPackages:
     - 67.0.0
     - 68.0.0
     - 69.0.0
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies: []
@@ -4586,6 +4590,7 @@ m_ResolvedPackages:
     - 66.0.0
     - 67.0.0
     - 69.0.0
+    - 71.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
@@ -4597,6 +4602,7 @@ m_ResolvedPackages:
     - 66.0.0
     - 67.0.0
     - 69.0.0
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies: []
@@ -4662,6 +4668,7 @@ m_ResolvedPackages:
     - 66.0.1
     - 68.0.0
     - 69.0.0
+    - 71.0.0
     compatible:
     - 57.0.0
     - 59.0.0
@@ -4672,6 +4679,7 @@ m_ResolvedPackages:
     - 66.0.1
     - 68.0.0
     - 69.0.0
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies: []
@@ -4741,6 +4749,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     compatible:
     - 60.0.0
     - 62.0.0
@@ -4754,6 +4763,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies:
@@ -4829,6 +4839,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     compatible:
     - 60.0.0
     - 62.0.0
@@ -4842,6 +4853,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies:
@@ -4933,6 +4945,7 @@ m_ResolvedPackages:
     - 67.0.0
     - 68.0.0
     - 69.0.0
+    - 71.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
@@ -4946,6 +4959,7 @@ m_ResolvedPackages:
     - 67.0.0
     - 68.0.0
     - 69.0.0
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies:
@@ -5028,6 +5042,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
@@ -5044,6 +5059,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.0
     - 69.0.1
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies:
@@ -5130,6 +5146,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.1
     - 69.0.2
+    - 71.0.0
     compatible:
     - 56.0.0-preview
     - 57.0.0-preview
@@ -5146,6 +5163,7 @@ m_ResolvedPackages:
     - 68.0.2
     - 69.0.1
     - 69.0.2
+    - 71.0.0
     recommended: 
     deprecated: []
   dependencies:
