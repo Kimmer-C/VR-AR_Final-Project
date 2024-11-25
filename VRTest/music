@@ -1,0 +1,57 @@
+using UnityEngine;
+
+public class MusicController : MonoBehaviour
+{
+    public AudioSource audioSource;  // AudioSource 컴포넌트
+    public AudioClip entranceMusic; // 입장 시 음악
+    public AudioClip exitMusic;     // 퇴장 시 음악
+    public AudioClip lockedMusic;   // 자물쇠 상황 시 음악
+
+    private bool isLocked = false;  // 자물쇠 상태 여부
+
+    #enter
+    public void StartMuseum()
+    {
+        audioSource.clip = entranceMusic; 
+        audioSource.Play();               
+    }
+
+    #exit
+    public void ExitMuseum()
+    {
+        if (isLocked)
+        {
+            #자물쇠가 뜨면, 음악 전환
+            audioSource.clip = lockedMusic;
+        }
+        else
+        {
+            #자물쇠를 풀었을 경우
+            audioSource.clip = exitMusic;
+        }
+        audioSource.Play();               
+    }
+
+    #자물쇠 상태 변경 함수 (외부 스크립트에서 호출 가능)
+    public void SetLocked(bool locked)
+    {
+        isLocked = locked;
+    }
+
+    #입장, 퇴장 검출
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player")) // 플레이어가 입장 시
+        {
+            StartMuseum();
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Player")) // 플레이어가 퇴장 시
+        {
+            ExitMuseum();
+        }
+    }
+}
